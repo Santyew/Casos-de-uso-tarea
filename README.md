@@ -1,4 +1,4 @@
-img src="Ejercicio1.drawio.png">
+<img src="Ejercicio1.drawio.png">
 
 |  Actor | Usuario |
 |---|---|
